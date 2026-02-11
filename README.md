@@ -2,3 +2,5 @@
 This ia a demo class for git &amp; github.
 # teacher
 shradha khapra
+# Student name
+Raj mehta
